@@ -7,7 +7,7 @@ namespace _2_3
     {
         static void Main()
         {
-            //            -Задание 1-                            //
+            // (zadanie 1)
             /* Console.Write("введите имя: ");
              string n = Console.ReadLine();
              Console.Write("введите фамилию: ");
@@ -19,7 +19,7 @@ namespace _2_3
              Worker worker1 = new Worker(n, sn, r, d);
              worker1.GetSalary();*/
 
-            //          -Задание 2-                           //
+            //  (zadanie 2)
 
 
             /*            Console.Write("введите имя: ");
@@ -34,7 +34,7 @@ namespace _2_3
                         worker1.GetSalary();*/
 
 
-            //          -Задание 3-                           //
+            // (zadanie 3)
 
 
             /*Console.WriteLine("1 - Изменить значение строки\n2 - Добавить символ в конец строки\n3 - получить значение строки\n4 - получить значение последнего символа\n5 - удалить последний символ строки");
