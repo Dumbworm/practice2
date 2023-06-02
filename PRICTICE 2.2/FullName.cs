@@ -9,8 +9,8 @@ namespace PRICTICE_2._2
 
         public FullName()
         {
-            this.name = "Danil";
-            this.surname = "Bakun";
+            this.name = "Starikov";
+            this.surname = "Stepan";
         }
 
         public FullName(String n, String sn)
