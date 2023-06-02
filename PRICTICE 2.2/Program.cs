@@ -7,7 +7,7 @@ namespace PRICTICE_2._2
   static void Main() 
   {
       int[] marks = new int[] {5, 4, 3, 2, 1};
-      Student student1 = new Student("Bakun", "21.05.2005", 612, marks);
+      Student student1 = new Student("Starikov", "13.01.2005", 612, marks);
       while( 0 != 1)
       {
           Console.WriteLine("1 - Edit Info\n2 - Write Info\n3 - Finish");
