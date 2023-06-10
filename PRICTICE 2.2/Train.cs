@@ -1,6 +1,6 @@
 using System;
 
-namespace PRICTICE_2._2
+namespace PRACTICE_2._2
 
 {
     class Train
